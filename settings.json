@@ -1,0 +1,35 @@
+{
+  "SettingsVersion": 1.2,
+  "SimMode": "Multirotor",
+  "Vehicles": {
+    "Drone1": {
+      "VehicleType": "SimpleFlight",
+      "AutoCreate": true,
+      "EnableCollisionPassthrough": false,
+      "EnableCollisions": true,
+      "Cameras": {
+        "BottomCamera": {
+          "X": 0, "Y": 0, "Z": 0,
+          "Pitch": -90, "Roll": 0, "Yaw": 0,
+          "CaptureSettings": [
+            {
+              "ImageType": 0,
+              "Width": 640,
+              "Height": 480,
+              "FOV_Degrees": 90
+            }
+          ]
+        }
+      },
+      "Sensors": {
+        "Lidar1": {
+          "SensorType": 6,
+          "Enabled": true,
+          "X": 0, "Y": 0, "Z": -1,
+          "DrawDebugPoints": true,
+          "DataFrame": "SensorLocalFrame"
+        }
+      }
+    }
+  }
+}
