@@ -21,7 +21,6 @@ train_test_datasets_origin/
 *.mp4
 *.h5
 *.swp
-*.zip
 *.tar.gz
 *.th
 *.so
