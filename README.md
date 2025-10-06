@@ -241,10 +241,11 @@ Key research foundations:
 
 ## Team
 
-**Gradient Ascent** - SIH 2025 Team
+**Gradient Ascent** - SIH 2025
 - Ujjwal Kakar
 - Shreshth Rai
 - Vanshika
 - Abhinav Rajput
 - Sarthak Verma
 - Nikunj Gupta
+
