@@ -12,6 +12,7 @@ Rockfalls in open-pit mines pose significant threats to personnel and equipment,
 <div align="center">
 <img src="images/process_diagram.png" alt="Process Diagram" style="display: block; margin: 0 auto; width: 50%;"></div>
 
+### [Prototype link](https://netherite-ga.vercel.app/)
 ```
 Netherite is a smart, AI-based system designed to predict potential rockfall incidents in open-pit mines by
 processing multi-source data inputs and providing actionable insights for proactive decision-making.
@@ -248,4 +249,5 @@ Key research foundations:
 - Abhinav Rajput
 - Sarthak Verma
 - Nikunj Gupta
+
 
