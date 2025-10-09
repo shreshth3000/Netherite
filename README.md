@@ -136,7 +136,8 @@ python my_own_api_control.py
 cd pl2map
 python runners/train.py --config cfgs/config.yaml
 ```
-
+Final Mesh after Point Cloud SLAM viewed in CloudCompare:
+![](images/PLY_MAP.jpg)
 ### 2. Risk Assessment
 Risk Assessment leverages advanced AI and stocastic models that analyze processed point cloud and sensor data to dynamically evaluate slope stability and identify zones vulnerable to rockfalls. 
 The SAFE-ROCK framework integrates multi-source environmental and geotechnical indicators, providing probability-based forecasts and generating real-time risk maps to proactively alert mine planners of potential hazards.
@@ -249,5 +250,6 @@ Key research foundations:
 - Abhinav Rajput
 - Sarthak Verma
 - Nikunj Gupta
+
 
 
