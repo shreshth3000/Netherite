@@ -23,10 +23,13 @@ and providing actionable insights for proactive decision-making.
 
 - **Real-time Risk Assessment**: Continuous monitoring and prediction of rockfall events
 - **Multi-source Data Integration**: Processes DEM files, drone imagery, geotechnical sensor data, and environmental factors
+- **Physics, ML and GIS simluations**: Physics-Engine driven rockfall scenario modelling and GIS-based Monte-Carlo Tree Simulations (MCTS)
+  and other stochastic modelling to produce risk maps and scenario modelling.
 - **Interactive Dashboard**: Centralized monitoring with automated alerts and action plan recommendations
 - **3D Visualization**: Real-time 3D maps and dynamic zonal assessment
 - **Automated Alert System**: SMS/Email notifications with evacuation and prevention plans
 - **IoT Integration**: Network of sensors for capturing geotechnical properties
+
 
 ## Architecture
 
@@ -251,6 +254,7 @@ Key research foundations:
 - Abhinav Rajput
 - Sarthak Verma
 - Nikunj Gupta
+
 
 
 
