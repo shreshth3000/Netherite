@@ -24,6 +24,6 @@ train_test_datasets_origin/
 *.tar.gz
 *.th
 *.so
-
+.gitattributes
 .vscode
 .venv
